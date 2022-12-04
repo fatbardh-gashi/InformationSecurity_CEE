@@ -1,0 +1,14 @@
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ECDsaCng_Project.exe
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ECDsaCng_Project.deps.json
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ECDsaCng_Project.runtimeconfig.json
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ECDsaCng_Project.dll
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ref\ECDsaCng_Project.dll
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\bin\Debug\net6.0\ECDsaCng_Project.pdb
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.AssemblyInfoInputs.cache
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.AssemblyInfo.cs
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.csproj.CoreCompileInputs.cache
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.dll
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ref\ECDsaCng_Project.dll
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.pdb
+C:\Users\fatba\source\repos\ECC_.NET\ECDsaCng_Project\obj\Debug\net6.0\ECDsaCng_Project.genruntimeconfig.cache
